@@ -1,0 +1,221 @@
+respondent_id,city,age_bracket,income_bracket,primary_barrier,ambivalence_score,would_consider_ev_next_purchase,open_response
+R0001,Coimbatore,18-24,10-20L,Lack of local service centers,2.9,False,I'd consider it if there were more charging points near my office.
+R0002,Raipur,45-54,<5L,Upfront cost,3.3,True,Seems fine for city use but not for visiting family in the village.
+R0003,Nagpur,55+,<5L,Charging infrastructure,4.2,False,Resale market for EVs here is basically nonexistent right now.
+R0004,Nagpur,25-34,10-20L,Lack of local service centers,3.5,True,Resale market for EVs here is basically nonexistent right now.
+R0005,Kochi,18-24,5-10L,Range anxiety,2.1,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0006,Nagpur,18-24,5-10L,Range anxiety,2.6,True,
+R0007,Jaipur,35-44,10-20L,Range anxiety,3.3,False,Seems fine for city use but not for visiting family in the village.
+R0008,Indore,18-24,10-20L,Upfront cost,2.1,False,
+R0009,Coimbatore,45-54,5-10L,Charging infrastructure,2.5,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0010,Kochi,18-24,10-20L,Lack of local service centers,5.0,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0011,Jaipur,18-24,10-20L,Range anxiety,1.5,True,
+R0012,Jaipur,35-44,20L+,Charging infrastructure,3.1,True,Price difference vs petrol car is still too high for me.
+R0013,Jaipur,25-34,<5L,Range anxiety,3.0,False,
+R0014,Nagpur,25-34,20L+,Upfront cost,2.9,True,Resale market for EVs here is basically nonexistent right now.
+R0015,Indore,25-34,20L+,Range anxiety,3.6,True,Price difference vs petrol car is still too high for me.
+R0016,Jaipur,45-54,5-10L,Range anxiety,3.9,False,My cousin bought one and complains about long charging waits on highways.
+R0017,Nagpur,55+,5-10L,Upfront cost,3.2,False,Price difference vs petrol car is still too high for me.
+R0018,Coimbatore,35-44,10-20L,Upfront cost,3.8,False,My cousin bought one and complains about long charging waits on highways.
+R0019,Jaipur,45-54,20L+,Resale value uncertainty,4.3,False,Resale market for EVs here is basically nonexistent right now.
+R0020,Bhubaneswar,45-54,<5L,Range anxiety,2.7,True,Seems fine for city use but not for visiting family in the village.
+R0021,Nagpur,18-24,<5L,Lack of local service centers,2.7,False,My cousin bought one and complains about long charging waits on highways.
+R0022,Raipur,18-24,<5L,Upfront cost,3.3,False,Seems fine for city use but not for visiting family in the village.
+R0023,Raipur,45-54,<5L,Range anxiety,1.6,False,Worried about battery replacement cost after a few years.
+R0024,Indore,45-54,20L+,Range anxiety,1.4,False,Price difference vs petrol car is still too high for me.
+R0025,Nagpur,25-34,<5L,Upfront cost,3.1,False,Seems fine for city use but not for visiting family in the village.
+R0026,Raipur,18-24,10-20L,Range anxiety,1.6,False,Worried about battery replacement cost after a few years.
+R0027,Jaipur,25-34,10-20L,Resale value uncertainty,1.1,True,Seems fine for city use but not for visiting family in the village.
+R0028,Raipur,25-34,5-10L,Resale value uncertainty,2.9,False,Resale market for EVs here is basically nonexistent right now.
+R0029,Jaipur,18-24,10-20L,Resale value uncertainty,3.4,False,
+R0030,Coimbatore,35-44,20L+,Upfront cost,4.1,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0031,Coimbatore,45-54,<5L,Upfront cost,3.9,False,
+R0032,Jaipur,18-24,20L+,Range anxiety,3.7,False,Seems fine for city use but not for visiting family in the village.
+R0033,Bhubaneswar,45-54,20L+,Resale value uncertainty,1.9,True,Resale market for EVs here is basically nonexistent right now.
+R0034,Jaipur,25-34,5-10L,Lack of local service centers,3.6,False,I'd consider it if there were more charging points near my office.
+R0035,Kochi,55+,20L+,Charging infrastructure,1.8,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0036,Kochi,18-24,<5L,Range anxiety,3.4,True,My cousin bought one and complains about long charging waits on highways.
+R0037,Bhubaneswar,25-34,10-20L,Lack of local service centers,3.7,True,Seems fine for city use but not for visiting family in the village.
+R0038,Indore,45-54,5-10L,Charging infrastructure,4.8,True,I'd consider it if there were more charging points near my office.
+R0039,Jaipur,45-54,5-10L,Range anxiety,1.9,False,My cousin bought one and complains about long charging waits on highways.
+R0040,Raipur,25-34,<5L,Range anxiety,3.4,False,My cousin bought one and complains about long charging waits on highways.
+R0041,Kochi,55+,20L+,Upfront cost,2.8,True,Worried about battery replacement cost after a few years.
+R0042,Raipur,18-24,<5L,Upfront cost,2.8,True,
+R0043,Raipur,55+,5-10L,Upfront cost,3.4,False,Price difference vs petrol car is still too high for me.
+R0044,Bhubaneswar,55+,5-10L,Range anxiety,2.9,False,Price difference vs petrol car is still too high for me.
+R0045,Raipur,45-54,20L+,Resale value uncertainty,3.4,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0046,Nagpur,25-34,10-20L,Charging infrastructure,4.0,False,Worried about battery replacement cost after a few years.
+R0047,Indore,25-34,20L+,Upfront cost,2.8,True,Seems fine for city use but not for visiting family in the village.
+R0048,Jaipur,45-54,5-10L,Lack of local service centers,1.8,True,Seems fine for city use but not for visiting family in the village.
+R0049,Kochi,35-44,10-20L,Charging infrastructure,4.0,False,Worried about battery replacement cost after a few years.
+R0050,Jaipur,45-54,20L+,Range anxiety,3.1,False,I'd consider it if there were more charging points near my office.
+R0051,Bhubaneswar,25-34,<5L,Range anxiety,2.3,True,Worried about battery replacement cost after a few years.
+R0052,Coimbatore,25-34,10-20L,Upfront cost,2.3,False,My cousin bought one and complains about long charging waits on highways.
+R0053,Indore,25-34,20L+,Range anxiety,4.5,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0054,Nagpur,25-34,20L+,Upfront cost,2.2,False,Worried about battery replacement cost after a few years.
+R0055,Coimbatore,25-34,<5L,Lack of local service centers,2.0,True,Price difference vs petrol car is still too high for me.
+R0056,Indore,55+,20L+,Upfront cost,1.9,True,Price difference vs petrol car is still too high for me.
+R0057,Raipur,25-34,10-20L,Upfront cost,2.4,True,I'd consider it if there were more charging points near my office.
+R0058,Kochi,35-44,5-10L,Upfront cost,3.0,False,Price difference vs petrol car is still too high for me.
+R0059,Bhubaneswar,35-44,<5L,Range anxiety,3.5,True,I'd consider it if there were more charging points near my office.
+R0060,Nagpur,25-34,20L+,Charging infrastructure,3.8,False,Seems fine for city use but not for visiting family in the village.
+R0061,Bhubaneswar,45-54,10-20L,Upfront cost,3.5,False,Seems fine for city use but not for visiting family in the village.
+R0062,Kochi,25-34,20L+,Range anxiety,2.2,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0063,Nagpur,45-54,5-10L,Resale value uncertainty,4.4,False,I'd consider it if there were more charging points near my office.
+R0064,Nagpur,55+,10-20L,Charging infrastructure,3.2,False,Seems fine for city use but not for visiting family in the village.
+R0065,Jaipur,35-44,10-20L,Upfront cost,2.6,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0066,Raipur,35-44,5-10L,Range anxiety,3.2,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0067,Kochi,25-34,5-10L,Upfront cost,2.3,True,I'd consider it if there were more charging points near my office.
+R0068,Nagpur,45-54,<5L,Upfront cost,3.8,True,Resale market for EVs here is basically nonexistent right now.
+R0069,Nagpur,25-34,20L+,Upfront cost,2.8,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0070,Jaipur,55+,5-10L,Lack of local service centers,2.8,True,I'd consider it if there were more charging points near my office.
+R0071,Indore,55+,5-10L,Resale value uncertainty,4.1,False,I'd consider it if there were more charging points near my office.
+R0072,Indore,25-34,<5L,Charging infrastructure,2.3,False,I'd consider it if there were more charging points near my office.
+R0073,Nagpur,55+,<5L,Upfront cost,2.8,False,I'd consider it if there were more charging points near my office.
+R0074,Jaipur,35-44,<5L,Range anxiety,3.4,True,
+R0075,Indore,55+,<5L,Upfront cost,4.9,True,
+R0076,Coimbatore,25-34,5-10L,Resale value uncertainty,2.3,False,Seems fine for city use but not for visiting family in the village.
+R0077,Jaipur,35-44,<5L,Charging infrastructure,1.4,True,Seems fine for city use but not for visiting family in the village.
+R0078,Nagpur,35-44,5-10L,Charging infrastructure,3.5,False,I'd consider it if there were more charging points near my office.
+R0079,Bhubaneswar,45-54,10-20L,Upfront cost,2.9,False,Price difference vs petrol car is still too high for me.
+R0080,Bhubaneswar,55+,5-10L,Range anxiety,4.4,False,Price difference vs petrol car is still too high for me.
+R0081,Nagpur,45-54,10-20L,Lack of local service centers,4.1,False,Resale market for EVs here is basically nonexistent right now.
+R0082,Kochi,18-24,<5L,Lack of local service centers,3.2,False,My cousin bought one and complains about long charging waits on highways.
+R0083,Jaipur,55+,10-20L,Range anxiety,3.6,False,Worried about battery replacement cost after a few years.
+R0084,Jaipur,45-54,20L+,Range anxiety,3.0,False,I'd consider it if there were more charging points near my office.
+R0085,Kochi,25-34,20L+,Upfront cost,2.1,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0086,Bhubaneswar,18-24,10-20L,Range anxiety,3.2,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0087,Indore,35-44,10-20L,Range anxiety,3.7,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0088,Nagpur,55+,<5L,Range anxiety,2.9,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0089,Bhubaneswar,35-44,5-10L,Resale value uncertainty,3.5,True,Seems fine for city use but not for visiting family in the village.
+R0090,Coimbatore,35-44,20L+,Range anxiety,2.5,True,I'd consider it if there were more charging points near my office.
+R0091,Indore,25-34,<5L,Resale value uncertainty,1.6,False,I'd consider it if there were more charging points near my office.
+R0092,Jaipur,25-34,10-20L,Range anxiety,4.2,False,
+R0093,Nagpur,35-44,10-20L,Lack of local service centers,2.6,True,Price difference vs petrol car is still too high for me.
+R0094,Jaipur,45-54,5-10L,Charging infrastructure,2.9,False,Price difference vs petrol car is still too high for me.
+R0095,Bhubaneswar,25-34,20L+,Charging infrastructure,2.7,True,Seems fine for city use but not for visiting family in the village.
+R0096,Bhubaneswar,45-54,20L+,Lack of local service centers,3.4,False,My cousin bought one and complains about long charging waits on highways.
+R0097,Raipur,25-34,10-20L,Upfront cost,3.8,True,Price difference vs petrol car is still too high for me.
+R0098,Indore,45-54,20L+,Charging infrastructure,3.5,False,Resale market for EVs here is basically nonexistent right now.
+R0099,Jaipur,35-44,10-20L,Range anxiety,2.5,True,My cousin bought one and complains about long charging waits on highways.
+R0100,Jaipur,25-34,<5L,Range anxiety,3.7,False,Price difference vs petrol car is still too high for me.
+R0101,Kochi,18-24,5-10L,Range anxiety,2.5,True,I'd consider it if there were more charging points near my office.
+R0102,Bhubaneswar,45-54,20L+,Charging infrastructure,2.3,False,I'd consider it if there were more charging points near my office.
+R0103,Nagpur,45-54,5-10L,Range anxiety,4.6,False,Worried about battery replacement cost after a few years.
+R0104,Kochi,18-24,20L+,Upfront cost,2.4,True,Worried about battery replacement cost after a few years.
+R0105,Raipur,18-24,10-20L,Resale value uncertainty,3.6,False,My cousin bought one and complains about long charging waits on highways.
+R0106,Jaipur,18-24,<5L,Upfront cost,3.1,False,Worried about battery replacement cost after a few years.
+R0107,Coimbatore,55+,<5L,Range anxiety,2.3,True,I'd consider it if there were more charging points near my office.
+R0108,Raipur,35-44,5-10L,Range anxiety,2.7,True,
+R0109,Raipur,35-44,<5L,Upfront cost,3.1,False,I'd consider it if there were more charging points near my office.
+R0110,Kochi,45-54,<5L,Range anxiety,5.0,False,Price difference vs petrol car is still too high for me.
+R0111,Kochi,35-44,20L+,Charging infrastructure,3.7,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0112,Jaipur,35-44,<5L,Range anxiety,2.8,True,Seems fine for city use but not for visiting family in the village.
+R0113,Bhubaneswar,25-34,10-20L,Lack of local service centers,2.5,True,Price difference vs petrol car is still too high for me.
+R0114,Nagpur,25-34,5-10L,Lack of local service centers,4.6,False,
+R0115,Bhubaneswar,18-24,5-10L,Lack of local service centers,4.2,False,I'd consider it if there were more charging points near my office.
+R0116,Raipur,18-24,5-10L,Upfront cost,3.5,True,Resale market for EVs here is basically nonexistent right now.
+R0117,Bhubaneswar,25-34,10-20L,Resale value uncertainty,4.2,False,Seems fine for city use but not for visiting family in the village.
+R0118,Kochi,45-54,<5L,Charging infrastructure,2.1,True,Price difference vs petrol car is still too high for me.
+R0119,Jaipur,18-24,<5L,Charging infrastructure,4.5,False,Worried about battery replacement cost after a few years.
+R0120,Coimbatore,18-24,5-10L,Upfront cost,1.0,True,Resale market for EVs here is basically nonexistent right now.
+R0121,Coimbatore,45-54,5-10L,Resale value uncertainty,2.5,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0122,Raipur,35-44,20L+,Lack of local service centers,4.6,True,I'd consider it if there were more charging points near my office.
+R0123,Jaipur,18-24,20L+,Range anxiety,3.7,True,Worried about battery replacement cost after a few years.
+R0124,Indore,18-24,10-20L,Lack of local service centers,1.7,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0125,Coimbatore,35-44,10-20L,Range anxiety,3.4,False,Price difference vs petrol car is still too high for me.
+R0126,Nagpur,18-24,<5L,Charging infrastructure,3.0,False,Seems fine for city use but not for visiting family in the village.
+R0127,Nagpur,35-44,20L+,Range anxiety,5.0,False,
+R0128,Kochi,35-44,5-10L,Lack of local service centers,2.5,True,Seems fine for city use but not for visiting family in the village.
+R0129,Coimbatore,55+,5-10L,Resale value uncertainty,1.6,False,Resale market for EVs here is basically nonexistent right now.
+R0130,Indore,18-24,20L+,Upfront cost,3.5,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0131,Kochi,18-24,5-10L,Lack of local service centers,5.0,True,Worried about battery replacement cost after a few years.
+R0132,Bhubaneswar,45-54,5-10L,Range anxiety,1.3,False,Seems fine for city use but not for visiting family in the village.
+R0133,Kochi,18-24,10-20L,Range anxiety,2.1,False,Price difference vs petrol car is still too high for me.
+R0134,Coimbatore,35-44,5-10L,Charging infrastructure,2.2,True,
+R0135,Kochi,25-34,10-20L,Upfront cost,3.2,False,Worried about battery replacement cost after a few years.
+R0136,Bhubaneswar,55+,5-10L,Upfront cost,3.8,True,Worried about battery replacement cost after a few years.
+R0137,Jaipur,25-34,20L+,Range anxiety,3.2,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0138,Nagpur,18-24,5-10L,Resale value uncertainty,3.1,True,Seems fine for city use but not for visiting family in the village.
+R0139,Nagpur,18-24,<5L,Range anxiety,3.8,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0140,Kochi,18-24,5-10L,Upfront cost,2.4,True,Price difference vs petrol car is still too high for me.
+R0141,Nagpur,35-44,20L+,Charging infrastructure,2.7,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0142,Kochi,18-24,20L+,Charging infrastructure,2.6,True,
+R0143,Nagpur,55+,<5L,Range anxiety,3.5,True,My cousin bought one and complains about long charging waits on highways.
+R0144,Bhubaneswar,35-44,10-20L,Charging infrastructure,1.8,True,Resale market for EVs here is basically nonexistent right now.
+R0145,Nagpur,35-44,5-10L,Range anxiety,2.3,True,Resale market for EVs here is basically nonexistent right now.
+R0146,Jaipur,45-54,5-10L,Range anxiety,2.8,False,Resale market for EVs here is basically nonexistent right now.
+R0147,Nagpur,25-34,5-10L,Resale value uncertainty,1.6,True,I'd consider it if there were more charging points near my office.
+R0148,Nagpur,45-54,<5L,Charging infrastructure,4.1,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0149,Jaipur,18-24,<5L,Range anxiety,3.5,False,Resale market for EVs here is basically nonexistent right now.
+R0150,Bhubaneswar,25-34,10-20L,Resale value uncertainty,3.7,False,My cousin bought one and complains about long charging waits on highways.
+R0151,Indore,45-54,<5L,Lack of local service centers,4.1,True,My cousin bought one and complains about long charging waits on highways.
+R0152,Jaipur,45-54,5-10L,Resale value uncertainty,2.9,True,
+R0153,Kochi,35-44,<5L,Charging infrastructure,5.0,True,My cousin bought one and complains about long charging waits on highways.
+R0154,Kochi,25-34,<5L,Lack of local service centers,3.7,False,I'd consider it if there were more charging points near my office.
+R0155,Jaipur,35-44,20L+,Resale value uncertainty,4.0,False,Price difference vs petrol car is still too high for me.
+R0156,Raipur,35-44,20L+,Upfront cost,3.9,False,
+R0157,Kochi,55+,20L+,Upfront cost,2.3,True,My cousin bought one and complains about long charging waits on highways.
+R0158,Indore,25-34,10-20L,Range anxiety,2.4,True,Resale market for EVs here is basically nonexistent right now.
+R0159,Coimbatore,25-34,<5L,Upfront cost,2.1,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0160,Indore,55+,20L+,Charging infrastructure,3.5,True,My cousin bought one and complains about long charging waits on highways.
+R0161,Nagpur,25-34,5-10L,Resale value uncertainty,4.6,False,
+R0162,Coimbatore,25-34,5-10L,Lack of local service centers,3.1,False,Worried about battery replacement cost after a few years.
+R0163,Indore,35-44,20L+,Range anxiety,3.1,False,My cousin bought one and complains about long charging waits on highways.
+R0164,Coimbatore,25-34,10-20L,Range anxiety,2.6,False,Seems fine for city use but not for visiting family in the village.
+R0165,Coimbatore,35-44,10-20L,Range anxiety,3.4,False,Resale market for EVs here is basically nonexistent right now.
+R0166,Kochi,55+,<5L,Resale value uncertainty,4.0,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0167,Indore,35-44,20L+,Range anxiety,1.7,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0168,Coimbatore,25-34,10-20L,Range anxiety,2.9,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0169,Indore,35-44,10-20L,Upfront cost,3.3,False,Price difference vs petrol car is still too high for me.
+R0170,Jaipur,35-44,<5L,Lack of local service centers,4.3,False,I'd consider it if there were more charging points near my office.
+R0171,Kochi,18-24,5-10L,Upfront cost,2.4,True,
+R0172,Kochi,18-24,<5L,Charging infrastructure,2.5,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0173,Coimbatore,55+,5-10L,Upfront cost,2.7,False,Seems fine for city use but not for visiting family in the village.
+R0174,Coimbatore,25-34,<5L,Charging infrastructure,3.6,False,Seems fine for city use but not for visiting family in the village.
+R0175,Jaipur,35-44,20L+,Upfront cost,4.2,False,Price difference vs petrol car is still too high for me.
+R0176,Nagpur,35-44,20L+,Upfront cost,3.8,False,
+R0177,Kochi,25-34,5-10L,Upfront cost,3.4,True,My cousin bought one and complains about long charging waits on highways.
+R0178,Nagpur,55+,5-10L,Lack of local service centers,3.1,True,My cousin bought one and complains about long charging waits on highways.
+R0179,Bhubaneswar,55+,5-10L,Upfront cost,2.3,False,Price difference vs petrol car is still too high for me.
+R0180,Nagpur,45-54,<5L,Range anxiety,2.4,True,Resale market for EVs here is basically nonexistent right now.
+R0181,Indore,25-34,5-10L,Range anxiety,3.4,False,Worried about battery replacement cost after a few years.
+R0182,Coimbatore,35-44,10-20L,Upfront cost,2.9,True,I'd consider it if there were more charging points near my office.
+R0183,Coimbatore,35-44,10-20L,Charging infrastructure,2.5,False,Seems fine for city use but not for visiting family in the village.
+R0184,Nagpur,35-44,5-10L,Resale value uncertainty,1.9,True,Seems fine for city use but not for visiting family in the village.
+R0185,Kochi,25-34,20L+,Charging infrastructure,2.2,True,
+R0186,Bhubaneswar,18-24,20L+,Resale value uncertainty,4.7,False,Seems fine for city use but not for visiting family in the village.
+R0187,Raipur,55+,5-10L,Resale value uncertainty,3.3,False,My cousin bought one and complains about long charging waits on highways.
+R0188,Nagpur,25-34,10-20L,Upfront cost,2.2,True,My cousin bought one and complains about long charging waits on highways.
+R0189,Jaipur,18-24,<5L,Upfront cost,4.4,False,Worried about battery replacement cost after a few years.
+R0190,Indore,55+,<5L,Charging infrastructure,3.5,False,Resale market for EVs here is basically nonexistent right now.
+R0191,Nagpur,18-24,10-20L,Upfront cost,3.2,False,
+R0192,Nagpur,25-34,10-20L,Upfront cost,3.3,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0193,Coimbatore,35-44,10-20L,Range anxiety,3.8,True,
+R0194,Indore,45-54,<5L,Upfront cost,3.2,False,Resale market for EVs here is basically nonexistent right now.
+R0195,Raipur,25-34,<5L,Resale value uncertainty,2.3,True,Price difference vs petrol car is still too high for me.
+R0196,Kochi,35-44,<5L,Range anxiety,4.3,False,I'd consider it if there were more charging points near my office.
+R0197,Coimbatore,45-54,10-20L,Range anxiety,1.5,True,Price difference vs petrol car is still too high for me.
+R0198,Raipur,25-34,5-10L,Lack of local service centers,3.2,True,
+R0199,Kochi,55+,<5L,Upfront cost,2.9,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0200,Coimbatore,18-24,20L+,Upfront cost,2.8,False,I'd consider it if there were more charging points near my office.
+R0201,Coimbatore,45-54,5-10L,Upfront cost,2.9,True,
+R0202,Kochi,55+,<5L,Range anxiety,5.0,False,"Actually pretty happy with the idea, just waiting for more model options."
+R0203,Raipur,35-44,5-10L,Range anxiety,4.1,False,
+R0204,Bhubaneswar,25-34,5-10L,Charging infrastructure,4.5,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0205,Bhubaneswar,55+,5-10L,Charging infrastructure,2.7,True,My cousin bought one and complains about long charging waits on highways.
+R0206,Kochi,35-44,5-10L,Charging infrastructure,2.1,False,Seems fine for city use but not for visiting family in the village.
+R0207,Coimbatore,25-34,<5L,Lack of local service centers,3.0,False,Seems fine for city use but not for visiting family in the village.
+R0208,Bhubaneswar,35-44,10-20L,Upfront cost,5.0,True,Resale market for EVs here is basically nonexistent right now.
+R0209,Coimbatore,45-54,20L+,Upfront cost,2.8,True,I'd consider it if there were more charging points near my office.
+R0210,Nagpur,25-34,10-20L,Range anxiety,2.8,False,
+R0211,Nagpur,45-54,20L+,Upfront cost,2.4,False,Seems fine for city use but not for visiting family in the village.
+R0212,Jaipur,55+,5-10L,Charging infrastructure,2.5,False,My cousin bought one and complains about long charging waits on highways.
+R0213,Jaipur,45-54,5-10L,Upfront cost,2.5,False,Resale market for EVs here is basically nonexistent right now.
+R0214,Jaipur,45-54,20L+,Charging infrastructure,3.4,True,
+R0215,Nagpur,25-34,10-20L,Charging infrastructure,2.0,False,I'd consider it if there were more charging points near my office.
+R0216,Bhubaneswar,18-24,<5L,Resale value uncertainty,3.8,False,Price difference vs petrol car is still too high for me.
+R0217,Raipur,35-44,<5L,Upfront cost,2.6,True,
+R0218,Raipur,18-24,10-20L,Upfront cost,1.0,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0219,Bhubaneswar,55+,<5L,Charging infrastructure,1.0,True,"Actually pretty happy with the idea, just waiting for more model options."
+R0220,Jaipur,45-54,<5L,Upfront cost,3.8,True,I'd consider it if there were more charging points near my office.
