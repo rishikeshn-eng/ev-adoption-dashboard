@@ -1,0 +1,6 @@
+# The custom CSS in app.py is designed for a light background.
+# Pin the light theme so the sidebar and cards stay readable for
+# visitors whose browser or OS is set to dark mode.
+[theme]
+base = "light"
+primaryColor = "#2d6a4f"
